@@ -8,3 +8,6 @@ List of contents:
 3  choosing the optimum activation functions
 4  Hyperparameter tuning
 5  Learning curves
+
+
+![machine-learning-map](https://user-images.githubusercontent.com/52033681/79115954-81cd6500-7d87-11ea-9470-e0b930cbe7a8.png)
