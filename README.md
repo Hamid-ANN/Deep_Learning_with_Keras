@@ -12,5 +12,4 @@ List of contents:
 
 ![machine-learning-map](https://user-images.githubusercontent.com/52033681/79115954-81cd6500-7d87-11ea-9470-e0b930cbe7a8.png)
 
-
-This project shows how to solve a variety of problems using the versatile Keras functional API. We start with simple, multi-layer dense networks (also known as multi-layer perceptrons), and continue on to more complicated architectures.  We used advanced topics such as category embeddings and multiple-output networks. 
+This project shows how to solve a variety of problems using the versatile Keras functional API. We start with simple, multi-layer dense networks (also known as multi-layer perceptrons), and continue on to more complicated architectures.  We used advanced topics such as category embeddings and multiple-output networks.
